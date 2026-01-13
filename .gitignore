@@ -1,4 +1,6 @@
 tokenvault.exe
+tokenvault_script.js
+
 
 *.db
 *.sqlite
